@@ -13,6 +13,7 @@ public static void main(String[] args)
 	staff.add(new ListEmployee("Carl Cracker", 75000, 1987, 12,15) );
 	staff.add(new ListEmployee("Harry Hacker",50000,1989,10,1));
 	staff.add(new ListEmployee("Tony Tester", 40000,1990,3,15));
+	staff.add(new ListEmployee("Tony Hacker", 80000,1979,3,15));
 	
 	// Увелечение заработной платы на 5%
 	for (ListEmployee e:staff)
