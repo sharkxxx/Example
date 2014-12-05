@@ -1,2 +1,1 @@
-Hello World!
-HELLO!
+Функциональный автотест  selenium WebDriver написанный на java,  отчет формируется с помощью фреймворка allure-framework,  собран через maven 
